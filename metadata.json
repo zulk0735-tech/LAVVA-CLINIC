@@ -1,0 +1,10 @@
+{
+  "name": "LAVVA CLINIC - Healthcare & Aesthetic System",
+  "description": "Sistem Informasi Pelayanan Terpadu Lavva Clinic: Konsultasi Online, Apotek, Home Care, Vaksinasi, Khitan Modern, Poli Gigi, Estetika & Kecantikan, serta Dashboard Super Admin.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
